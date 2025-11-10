@@ -10,5 +10,5 @@ Cameras, water level sensors, drones, meteorological stations and dam leak syste
 
 ### First Responder Machine Assistants
 
-Mobile robots, drones, and vehicles detect, identify, and report incidents to 1) other machines within a 1 to 5 mile radius, and 2) First Responders depending on incident priority level. Machines from different providers and vendors must observe and understand their surroundings, interact with humans if necessary, and share information about safety - human safety as well as property and other machines. P2P call and satcom network protocols are used to eliminate dependencies on cloud communications subject to vendor incompatibility / lack of cooperation and unreliable connectivity depending on environmental conditions
+Mobile robots, drones, and vehicles detect, identify, and report incidents to 1) other machines within a 1 to 5 mile radius, and 2) First Responders depending on incident priority level. Machines from different providers and vendors must observe and understand their surroundings, interact with humans if necessary, and share information about safety - human safety as well as property and other machines. P2P cell and satcom network protocols are used to eliminate dependencies on cloud communications subject to vendor incompatibility / lack of cooperation and unreliable connectivity depending on environmental conditions
 
