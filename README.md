@@ -6,7 +6,7 @@ Autonomous Agents Networks is a preliminary Akraino blueprint under the Physical
 
 ### Industrial Machine Communications
 
-On-device multimodal small models and P2P communications allow machines in manufacturing, construction, agriculture, and other machine-intensive industrial sectors to communicate directly, regardless of WiFi impediments such as connectivity loss, metal or other interference, distance, landscape obstructions, etc. Direct communications, both multicast and bi-directional, are supported by both cellular and satcom networks. This approach is both commercially viable and maintains a high priority on safety
+On-device multimodal small models and P2P communications allow machines in manufacturing, construction, agriculture, and other machine-intensive industrial sectors to communicate directly, regardless of cloud connectivity issues or WiFi impediments such as metal or other interference, distance, landscape obstructions, etc. Direct communications, both multicast and bi-directional, are supported by both cellular and satcom networks. This approach is both commercially viable and maintains a high priority on safety
 
 ### Flood Prediction, Detection, and Rescue
 
