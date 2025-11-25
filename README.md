@@ -10,7 +10,7 @@ On-device multimodal small models and P2P communications allow machines in manuf
 
 ### Flood Prediction, Detection, and Rescue
 
-Cameras, water level sensors, drones, meteorological stations and dam leak systems exchange data, send alerts, monitor overall systems and feed different datasets concerning rain level, floods (local and regional flow) etc. Agents include audio and video communication to allow human interaction in real-time to support rescue operations.
+Cameras, water level sensors, drones, meteorological stations and dam leak systems exchange data, send alerts, monitor overall systems and feed different datasets concerning rain level, floods (local and regional flow) etc. Agents include audio and video communication to allow real-time human interaction during rescue operations
 
 ### First Responder Machine Assistants
 
