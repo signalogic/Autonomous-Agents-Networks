@@ -23,5 +23,25 @@ On-device multimodal small model app for human safety in close proximity to robo
 ## PPT Presentation
 
 ![Title](images/Slide1.png)
-
 ![Contents](images/Slide2.png)
+![Overview - Agents, Machines, and Interaction](images/Slide3.png)
+![Motivation](images/Slide4.png)
+![Autonomous Agents Blueprint](images/Slide5.png)
+![Agent-Agent Interaction](images/Slide6.png)
+![Human-Agent Interaction](images/Slide7.png)
+![Key Technologies](images/Slide8.png)
+![Technology Challenges](images/Slide9.png)
+![Technology - Architecture Diagram](images/Slide10.png)
+![Technology - Dataflow Diagram](images/Slide11.png)
+![Technology - Messaging](images/Slide12.png)
+![Technology - Messaging, cont.](images/Slide13.png)
+![Technology - Agents Capabilities Advertisement](images/Slide14.png)
+![Technology - Multimodal and Language Models](images/Slide15.png)
+![Technology Data Storage / Database](images/Slide16.png)
+![Software Components](images/Slide17.png)
+![Hardware Examples](images/Slide18.png)
+![Supplemental I](images/Slide19.png)
+![Amazon Delivery Drone Patents](images/Slide20.png)
+![Additional Info](images/Slide21.png)
+
+
